@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181293657554",
+    "project_id": "re7latek",
+    "storage_bucket": "re7latek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181293657554:android:370d07b6f1811c5e7cac0b",
+        "android_client_info": {
+          "package_name": "com.example.re7latekk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0K1nKu7FSUz1VpAlrlaaXbjo0ufAnpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
